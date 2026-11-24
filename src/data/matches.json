@@ -1,0 +1,42 @@
+[
+  {
+    "id": "match-1",
+    "lostItemId": "item-1",
+    "foundItemId": "item-2",
+    "score": 0.89,
+    "strengthLabel": "High Match",
+    "sharedAttributes": ["Category: ID Cards", "Location: Main Library", "Same Day (1.5h apart)"],
+    "method": "Sentence-BERT + Metadata Filter",
+    "createdAt": "2026-11-18T16:05:00Z"
+  },
+  {
+    "id": "match-2",
+    "lostItemId": "item-3",
+    "foundItemId": "item-4",
+    "score": 0.86,
+    "strengthLabel": "High Match",
+    "sharedAttributes": ["Category: Phones", "Location: Central Cafeteria", "Same Day (45m apart)"],
+    "method": "Sentence-BERT + Metadata Filter",
+    "createdAt": "2026-11-17T13:35:00Z"
+  },
+  {
+    "id": "match-3",
+    "lostItemId": "item-5",
+    "foundItemId": "item-10",
+    "score": 0.82,
+    "strengthLabel": "Likely Match",
+    "sharedAttributes": ["Category: Books", "Location: Computer Lab", "Same Day (4.7h apart)"],
+    "method": "TF-IDF Cosine + Metadata Filter",
+    "createdAt": "2026-11-19T15:05:00Z"
+  },
+  {
+    "id": "match-4",
+    "lostItemId": "item-7",
+    "foundItemId": "item-8",
+    "score": 0.91,
+    "strengthLabel": "High Match",
+    "sharedAttributes": ["Category: Bags", "Location: Auditorium", "Same Day (1.5h apart)"],
+    "method": "Sentence-BERT + Metadata Filter",
+    "createdAt": "2026-11-16T18:35:00Z"
+  }
+]

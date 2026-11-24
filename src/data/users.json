@@ -1,0 +1,34 @@
+[
+  {
+    "id": "u1",
+    "name": "Satyaprakash Naik",
+    "email": "satya@university.edu",
+    "role": "student",
+    "identifier": "23110307",
+    "department": "7th Semester"
+  },
+  {
+    "id": "u2",
+    "name": "Shyam Sundar Soren",
+    "email": "shyam@university.edu",
+    "role": "student",
+    "identifier": "2311030",
+    "department": "7th Semester"
+  },
+  {
+    "id": "u3",
+    "name": "Campus Faculty Member",
+    "email": "staff@university.edu",
+    "role": "staff",
+    "identifier": "STF-104",
+    "department": "Academic Office"
+  },
+  {
+    "id": "admin1",
+    "name": "Campus Administrator",
+    "email": "admin@university.edu",
+    "role": "admin",
+    "identifier": "ADM-001",
+    "department": "Student Services"
+  }
+]

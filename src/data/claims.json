@@ -1,0 +1,46 @@
+[
+  {
+    "id": "claim-1",
+    "itemId": "item-2",
+    "claimantId": "u1",
+    "identifyingDetails": "Student ID number ends in 0307 with name Satyaprakash Naik (7th Semester). The lanyard clip has a small brass clasp.",
+    "contact": "satya@university.edu",
+    "status": "verified",
+    "submittedAt": "2026-11-18T16:30:00Z",
+    "verifiedAt": "2026-11-19T10:00:00Z",
+    "verifiedBy": "Campus Administrator",
+    "handover": null
+  },
+  {
+    "id": "claim-2",
+    "itemId": "item-4",
+    "claimantId": "u2",
+    "identifyingDetails": "Black Android phone in navy silicone cover. Last 4 digits of IMEI are 7842; lock screen displays a mountain landscape photograph.",
+    "contact": "shyam@university.edu",
+    "status": "claim-pending",
+    "submittedAt": "2026-11-18T09:15:00Z",
+    "verifiedAt": null,
+    "verifiedBy": null,
+    "handover": null
+  },
+  {
+    "id": "claim-3",
+    "itemId": "item-8",
+    "claimantId": "u2",
+    "identifyingDetails": "Charcoal grey laptop backpack with initials stitched inside the front zip pocket. Contains a brushed steel flask and a spiral notebook.",
+    "contact": "shyam@university.edu",
+    "status": "returned",
+    "submittedAt": "2026-11-17T08:00:00Z",
+    "verifiedAt": "2026-11-17T10:00:00Z",
+    "verifiedBy": "Campus Administrator",
+    "handover": {
+      "date": "2026-11-17",
+      "time": "11:30",
+      "location": "Student Services Office, OUTR, Bhubaneswar",
+      "receiverIdType": "Student ID",
+      "receiverId": "2311030",
+      "notes": "Verified contents and student ID in person. Item handed over and logged.",
+      "recordedBy": "Campus Administrator"
+    }
+  }
+]
